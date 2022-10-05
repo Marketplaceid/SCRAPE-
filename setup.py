@@ -18,8 +18,8 @@ def banner():
 	{re}╚═╗{cy}├┤  │ │ │├─┘
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
-	{re}       marketplace
-	{cy}www.github.com/marketplace
+	{re}       Marketplaceid
+	{cy}www.github.com/Marketplaceid
 	""")
 banner()
 print(gr+"[+] Menginstall pelengkap ...")
