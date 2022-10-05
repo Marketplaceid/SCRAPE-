@@ -17,8 +17,8 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
               Version : 1.01
-    {re}       Y0$cru1z3r
-    {cy}www.github.com/yoscruizer
+    {re}       Marketplaceid
+    {cy}www.github.com/Marketplaceid
         """)
 
 cpass = configparser.RawConfigParser()
