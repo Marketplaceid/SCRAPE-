@@ -8,7 +8,7 @@ pkg install git
 
 git clone https://github.com/Marketplaceid/SCRAPE-
 
-cd yoAdderTele
+cd SCRAPE-
 
 python setup.py
 
