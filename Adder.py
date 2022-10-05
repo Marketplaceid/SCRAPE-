@@ -20,8 +20,8 @@ print (gr+" ║ ├┤ │  ├┤ ║ ╦  ╠═╣ ││ ││├┤ ├┬
 print (re+" ╩ └─┘┴─┘└─┘╚═╝  ╩ ╩─┴┘─┴┘└─┘┴└─")
 
 print (cy+"version : 1.01")
-print (cy+"Y0$CRU1Z3R")
-print (cy+"www.github.com/yoscruizer")
+print (cy+"Marketplaceid")
+print (cy+"www.github.com/Marketplaceid")
 
 print (re+"NOTE :")
 print ("1. Telegram only allow to add 200 members in group by one user.")
