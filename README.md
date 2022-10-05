@@ -8,7 +8,7 @@ pkg install git
 
 git clone https://github.com/Marketplaceid/SCRAPE-
 
-cd SCRAPE
+cd SCRAPE-
 
 python setup.py
 
