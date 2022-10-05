@@ -6,7 +6,7 @@ pkg install python -y
 pkg install git
 
 
-git clone: https://github.com/Marketplaceid/SCRAPE-
+git clone https://github.com/Marketplaceid/SCRAPE-
 
 cd SCRAPE-
 
